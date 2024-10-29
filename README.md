@@ -1,6 +1,6 @@
 # Digital Wallet
 
-## Intrucciones de uso
+## Instrucciones de uso
 
 1. Levantar el proyecto con `node server.js` para el backend y `npm run android` para el frontend.
 2. Iniciar sesión en la app con el usuario "johndoe" y contraseña "password".
